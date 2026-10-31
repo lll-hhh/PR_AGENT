@@ -246,7 +246,7 @@ class RepositoryCard(ContributionCard):
         lines = f"+{summary['additions']:,} / −{summary['deletions']:,}" if summary['stats_ok'] else "待更新"
         self.add_metric(metrics, "累计贡献行数", lines,
                     f"统计范围：{scope}。\n新增 / 删除行数，按每个 PR 当前差异累计；重复修改不去重。")
-        self.add_metric(metrics, "累计贡献次数", f"{summary['count']:,} 次", 
+        self.add_metric(metrics, "累计贡献次数", f"{summary['count']:,} 次",
                     f"统计范围：{scope}，每个 PR 记 1 次。\n共提交 {summary['submitted_count']} 次，已合并 {summary['merged_count']} 次。")
         self.outer.addLayout(metrics)
 
