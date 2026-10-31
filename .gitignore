@@ -1,0 +1,24 @@
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environments and cloned upstream repositories
+.venv/
+venv/
+repos/
+
+# Generated app/build output and local evidence
+build/
+dist/
+research/evidence/
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+.vscode/

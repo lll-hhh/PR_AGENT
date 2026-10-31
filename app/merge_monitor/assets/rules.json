@@ -1,0 +1,151 @@
+{
+  "account": "contributor",
+  "ignored_prs": [],
+  "handled_actions": {},
+  "repository_categories": {
+    "algorithmicsuperintelligence/openevolve": {
+      "category": "Agent",
+      "subcategory": "自进化与搜索优化"
+    },
+    "anative-lab/evoagentx": {
+      "category": "Agent",
+      "subcategory": "自进化与搜索优化"
+    },
+    "microsoft/agent-lightning": {
+      "category": "Agent",
+      "subcategory": "训练与强化学习"
+    },
+    "agentscope-ai/agentscope": {
+      "category": "Agent",
+      "subcategory": "多智能体框架"
+    },
+    "gepa-ai/gepa": {
+      "category": "LLM",
+      "subcategory": "提示与程序优化"
+    },
+    "stanfordnlp/dspy": {
+      "category": "LLM",
+      "subcategory": "提示与程序优化"
+    },
+    "langchain-ai/langgraph": {
+      "category": "Agent",
+      "subcategory": "多智能体框架"
+    },
+    "langchain-ai/deepagents": {
+      "category": "Agent",
+      "subcategory": "编程与工具"
+    },
+    "langchain-ai/langchain": {
+      "category": "LLM",
+      "subcategory": "提示与程序优化"
+    },
+    "microsoft/autogen": {
+      "category": "Agent",
+      "subcategory": "多智能体框架"
+    },
+    "google-gemini/gemini-cli": {
+      "category": "Agent",
+      "subcategory": "编程与工具"
+    },
+    "huggingface/transformers": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "huggingface/lerobot": {
+      "category": "VLM",
+      "subcategory": "多模态应用"
+    },
+    "vllm-project/vllm": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "run-llama/llama_index": {
+      "category": "Agent",
+      "subcategory": "编程与工具"
+    },
+    "deepset-ai/haystack": {
+      "category": "LLM",
+      "subcategory": "提示与程序优化"
+    },
+    "modelcontextprotocol/python-sdk": {
+      "category": "Agent",
+      "subcategory": "编程与工具"
+    },
+    "openai/openai-cookbook": {
+      "category": "LLM",
+      "subcategory": "提示与程序优化"
+    },
+    "google-research/google-research": {
+      "category": "LLM",
+      "subcategory": "评测与对齐"
+    },
+    "google-deepmind/alphafold": {
+      "category": "Medical AI",
+      "subcategory": "医学多模态与模型"
+    },
+    "openvla/openvla": {
+      "category": "VLM",
+      "subcategory": "视觉语言模型"
+    },
+    "project-monai/monai": {
+      "category": "Medical AI",
+      "subcategory": "医学影像"
+    },
+    "microsoft/onnxruntime": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "mlflow/mlflow": {
+      "category": "LLM",
+      "subcategory": "评测与对齐"
+    },
+    "ray-project/ray": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "pytorch/pytorch": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "tensorflow/tensorflow": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "scikit-learn/scikit-learn": {
+      "category": "LLM",
+      "subcategory": "模型训练与推理"
+    },
+    "openai/clip": {
+      "category": "VLM",
+      "subcategory": "视觉语言模型"
+    },
+    "facebookresearch/dinov2": {
+      "category": "VLM",
+      "subcategory": "视觉语言模型"
+    },
+    "facebookresearch/segment-anything": {
+      "category": "VLM",
+      "subcategory": "视觉语言模型"
+    },
+    "microsoft/semantic-kernel": {
+      "category": "Agent",
+      "subcategory": "多智能体框架"
+    },
+    "camel-ai/camel": {
+      "category": "Agent",
+      "subcategory": "多智能体框架"
+    },
+    "openbmb/chatdev": {
+      "category": "Agent",
+      "subcategory": "编程与工具"
+    },
+    "openbmb/minicpm-v": {
+      "category": "VLM",
+      "subcategory": "视觉语言模型"
+    },
+    "open-compass/opencompass": {
+      "category": "VLM",
+      "subcategory": "多模态评测"
+    }
+  }
+}
